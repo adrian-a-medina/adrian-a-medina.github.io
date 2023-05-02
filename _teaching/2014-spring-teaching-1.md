@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "PSY 1901: Methods in Behavioral Research"
 collection: teaching
-type: "Undergraduate course"
+type: "Lead Instructor: Prof. Mina Cikara"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Harvard University, Department of Psychology"
+date: Fall 2022
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Teaching Fellow for the required research methods course at Harvard for undergraduate Psychology students, I covered a wide range of material, including research design and evaluation, statistical and research ethics, statistical exercises, data analysis, technical skills using R Studio, tables and figures preparation, research project construction, and manuscript and presentation development. I was responsible for designing all laboratory materials and problem sets, and teaching weekly 60-minute lab sections where I provided individualized written feedback on assignments. Through my role as a Teaching Fellow, I was able to guide and support students as they developed crucial skills and knowledge necessary for conducting research in the field of psychology.
 
 Heading 1
 ======
