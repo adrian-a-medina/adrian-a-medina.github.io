@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Adrián Medina"
+description              : &description "MPH Student @ Harvard T.H. Chan School of Public Health"
 url                      : https://adrian-a-medina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrian-a-medina/adrian-a-medina.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Adrián Medina, Ed.M."
+  avatar           : "Headshot1.jpeg"
+  bio              : "MPH Student @ Harvard T.H. Chan School of Public Health"
+  location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en
+  email            : "amedina1@g.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "adrian-a-medina"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/adrián-medina/
+  orcid            : "https://orcid.org/0000-0002-8838-6010"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_adrianmedina_"
   vine             :
   weibo            :
   xing             :
