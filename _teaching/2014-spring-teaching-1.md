@@ -4,7 +4,7 @@ collection: teaching
 type: "Lead Instructor: Prof. Mina Cikara"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Harvard University, Department of Psychology"
-date: Fall 2022
+date: 2022-01-01
 location: "Cambridge, MA"
 ---
 
