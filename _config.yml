@@ -64,19 +64,19 @@ social:
 
 # Site Author
 author:
- name             : "Adrián Medina, Ed.M."
- avatar           : "Headshot1.jpeg"
- bio              : "MPH Student @ Harvard T.H. Chan School of Public Health"
- location         : "Cambridge, MA"
- employer         : "Harvard University"
- pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
- googlescholar    : "https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en
- email            : "amedina1@g.harvard.edu"
- researchgate     : "https://www.researchgate.net/profile/Adrian-Medina-7"
- github           : "adrian-a-medina"
- linkedin         : "https://www.linkedin.com/in/adrián-medina/
- orcid            : "https://orcid.org/0000-0002-8838-6010"
- twitter          : "_adrianmedina_"
+  name                   : "Adrián Medina, Ed.M."
+  avatar                 : "Headshot1.jpeg"
+  bio                    : "MPH Student @ Harvard T.H. Chan School of Public Health"
+  location               : "Cambridge, MA"
+  employer               : "Harvard University"
+  pubmed                 : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar          : "https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en
+  email                  : "amedina1@g.harvard.edu"
+  researchgate           : "https://www.researchgate.net/profile/Adrian-Medina-7"
+  github                 : "adrian-a-medina"
+  linkedin               : "https://www.linkedin.com/in/adrián-medina/
+  orcid                  : "https://orcid.org/0000-0002-8838-6010"
+  twitter                : "_adrianmedina_"
 
 
 # Reading Files
