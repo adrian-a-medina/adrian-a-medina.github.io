@@ -26,10 +26,6 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                : #
-    num_posts            : # 5 (default)
-    colorscheme          : "light", "dark" (default)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -88,7 +84,7 @@ author:
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en
   email            : "amedina1@g.harvard.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Adrian-Medina-7"
+  researchgate     : "https://www.researchgate.net/profile/Adrian-Medina-7"
   uri              :
   bitbucket        :
   codepen          :
