@@ -1,5 +1,6 @@
 ---
 permalink: /
+"image (3).png"
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
