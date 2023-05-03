@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.P.H. in Health & Social Behavior, Harvard T.H. Chan School of Public Health, 2024 (Expected)
+* Ed.M. in Human Development & Education, Harvard Graduate School of Education, 2023
+* B.S. in Cognitive & Behavioral Neuroscience, Psychology, Loyola University Chicago, 2021
 
 Work experience
 ======
