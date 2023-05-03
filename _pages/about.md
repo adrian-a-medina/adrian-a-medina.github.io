@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-images/image (3).png
 I'm Adrián, an incoming Health & Social Behavior MPH candidate at the Harvard T.H. Chan School of Public Health within the Social & Behavioral Sciences department. Also a researcher, I'm actively involved in labs/centers across the Harvard scientific community including: the Harvard Faculty of Arts & Sciences, Athinoula A. Martinos Center for Biomedical Imaging, Lee Kum Sheung Center for Health & Happiness/Harvard T.H. Chan School of Public Health, McLean Hospital, and Harvard Graduate School of Education.
 
 Research Areas of Focus
