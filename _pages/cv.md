@@ -12,15 +12,18 @@ redirect_from:
 Education
 ======
 * M.P.H. in Health & Social Behavior, Harvard T.H. Chan School of Public Health, 2024 (Expected)
+  * Concentration: Population Mental Health
 * Ed.M. in Human Development & Education, Harvard Graduate School of Education, 2023
+  * Concentration: Identity, Power, & Justice in Education
 * B.S. in Cognitive & Behavioral Neuroscience, Psychology, Loyola University Chicago, 2021
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023 - Present: Research Assistant
+  * Harvard T.H. Chan School of Public Health
+    * Lee Kum Sheung Center for Health & Happiness
+  * Duties included: literature review, research synthesis, data analysis, presentation skills, information management
+  * Supervisor(s): Dr. Laura Marciano, Dr. Kasisomayajula Viswanath
 
 * Fall 2015: Research Assistant
   * Github University
