@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ Research Experience
 * Spring 2023 - Present: Research Assistant
   * Harvard T.H. Chan School of Public Health
     * Lee Kum Sheung Center for Health & Happiness
-  * Duties included: Literature Review, Research Synthesis, Data Analysis, Presentation Skills, & Information Management
+  * Duties included: Literature Review, Research Synthesis, Data Analysis, Presentation Skills, & Information Management.
   * Supervisor(s): Dr. Laura Marciano, Dr. Kasisomayajula Viswanath
 
 * Fall 2022 - Present: Graduate Research Fellow
@@ -42,7 +42,7 @@ Research Experience
 * Fall 2022 - Present: Graduate Research Assistant
   * Harvard Graduate School of Education
     * Gaab Laboratory
-  * Duties included: Data Cleaning, Data Organization, Preprocessing, Neuroimaging Data Analysis, & Brain Segmentation Quality Check
+  * Duties included: Data Cleaning, Data Organization, Preprocessing, Neuroimaging Data Analysis, & Brain Segmentation Quality Check.
   * Supervisor(s): Dr. Nadine Gaab, Dr. Jin Wang, Dr. Ted Turesky
 
 * Fall 2022 - Present: Laboratory Manager
@@ -56,7 +56,7 @@ Research Experience
   * Harvard University, Faculty of Arts & Sciences
     * Stress & Development Laboratory
   * Duties included: Cognitive Assessment, Questionnaire Administration, Data Collection, Behavioral Assessment, Neuroimaging (fMRI, sMRI), &
-    Research Methods and Ethics
+    Research Methods and Ethics.
   * Supervisor(s): Dr. Katie McLaughlin, Dr. Maya Rosen, & Dr. David Weissman
 
 * Summer 2021 - Fall 2022: Research Project Manager, Research Coordinator
@@ -75,12 +75,45 @@ Clinical Experience
   * Duties included: Direct Patient Care, Medication Administration, Crisis Management, Group Facilitation, Effective Communication, Patient
     Supervision and Support, and Boundaries and Professionalism.
 
-Teaching
+* Summer 2018 - Spring 2021: Certified Pharmacy Technician (CPhT)
+  * Walgreens Pharmacy
+  * Duties included: CPR Certification and Vaccine Administration, Medication Safety and Problem Resolution, Language Proficiency and
+    Translation, Prescription Dispensing and Labeling, Pharmaceutical Knowledge and Accuracy, Attention to Detail and Accuracy, and Regulatory
+    Compliance and Record Keeping.
+
+* Spring 2018 - Spring 2021: Clinical Spanish Interpreter
+  * Nandra Family Practice
+  * Duties included: Linguistic Proficiency, Cultural Competence, Data Interpretation and Simplification, Patient-Provider Communication
+    Facilitation, Active Listening, Language and Communication Mediation, and Empathy and Compassion.
+
+* Fall 2019 - Spring 2020: Mental Health Technician
+  * Misericordia Heart of Mercy
+    * Personal Effectiveness Program
+  * Duties included: Direct Patient Care, Medication Administration, Crisis Management, Group Facilitation, Effective Communication, Patient
+    Supervision and Support, and Boundaries and Professionalism.
+
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2022 - Winter 2022: Teaching Fellow
+  * Harvard University, Dept. of Psychology
+    * PSY 1901: Methods of Behavioral Research
+  * Duties included: Teaching and Instruction, Research Methods and Design, Statistical Analysis, Data Visualization, Research Project
+    Development, Written and Verbal Communication, and Problem-Solving and Adaptability.
+  * Lead Instructor: Dr. Mina Cikara
   
+* Fall 2020 - Spring 2021: Supplemental Instructor
+  * Loyola University Chicago, Dept. of Biology
+    * BIOL 202: Introduction to Neuroscience
+  * Duties included: Teaching and Instruction, Course Material Design, Neuroanatomy and Physiology, Neural Basis of Behavior, Disease and
+    Injury, Methods in Neuroscience, Individual Tutoring and Support, and Communication and Presentation Skills.
+
+* Fall 2019 - Spring 2020: Supplemental Instructor
+  * Loyola University Chicago, Dept. of Psychology
+    * PSYC 101: Introduction to Psychology
+  * Duties included: Teaching and Instruction, Course Material Design, Human Development, Learning and Cognition, Perception, Personality,
+    Testing and Assessment, Mental Illness and Mental Health, Biological and Social Aspects of Behavior, Individual Tutoring and Support, and 
+    Communication and Presentation Skills.
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
