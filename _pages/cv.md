@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
 Education
 ======
 * M.P.H. in Health & Social Behavior, Harvard T.H. Chan School of Public Health, 2024 (Expected)
