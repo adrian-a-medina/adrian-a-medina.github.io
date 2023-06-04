@@ -231,8 +231,8 @@ Hypersensitivity.
 Moderation Effect of Voluntary Engagement Coping.
 
 **Medina, A.**, Tan, L., Harb, F., Elahi, S., Ardila, M.A., Mis, K., Zarzour, H., Husna, A., Aldos, S., Aldakkak, E., Miller, E., Toussaint, R,
-F., Sosa, S., Bustos, Y., Jolie, S., Santiago, C.D., (in press). The Right to Equitable Education for Refugee and Immigrant Youth during COVID
-19. Children’s Legal Rights Journal.
+F., Sosa, S., Bustos, Y., Jolie, S., Santiago, C.D., (in press). The Right to Equitable Education for Refugee and Immigrant Youth during 
+COVID 19. Children’s Legal Rights Journal.
 
 Presentations
 ======
