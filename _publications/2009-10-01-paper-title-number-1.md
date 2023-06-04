@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "The Interplay between Emotion & Executive Function on Valence of Autobiographical Memories"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 
+venue: 'TBA'
+paperurl: 
+citation: "**Medina, A. A.**, Setton, R., A., Schacter, D., L. **(in preparation)**. The Interplay between Emotion & Executive Function on Valence of Autobiographical Memories."
 ---
-This paper is about the number 1. The number 2 is left for future work.
+There has been little research done on the interplay between affective qualities and executive functions in how they impact the valence of autobiographical recollections. The proposed study aims to examine whether individual affective dimensions (perceived stress, perceived hostility, and positive affect) moderate the relationship between executive function (including attention, working memory, and inhibitory control) and one’s tendency to recall personal memories with more positive or negative tone. In this study, the sample will be derived from an open access dataset using a cross-sectional approach. As part of this dataset, tests of executive function, assessments of perceived stress, perceived hostility, and positive affect, as well as an interview about autobiographical recollections, were administered to a sample of healthy younger and older adults. This research will advance our understanding of the intricate relationships between emotion and cognition and shed light on the interplay between cognition and emotion manifest in everyday recollection and how this changes with age.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: "**Medina, A. A.**, Setton, R., A., Schacter, D., L. **(in preparation)**. The Interplay between Emotion & Executive Function on Valence of Autobiographical Memories."
