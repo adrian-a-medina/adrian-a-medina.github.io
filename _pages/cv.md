@@ -35,7 +35,8 @@ Research Experience
 * Fall 2022 - Present: Graduate Research Assistant
   * Harvard University, Faculty of Arts & Sciences
     * Schacter Memory Laboratory
-  * Duties included: Neuroimaging (MRI), Data Analysis, Behavioral Paradigm Analysis, Programming Skills (Python and R Studio), Data Processing     & Analysis.
+  * Duties included: Neuroimaging (MRI), Data Analysis, Behavioral Paradigm Analysis, Programming Skills (Python and R Studio), Data Processing
+    & Analysis.
   * Supervisor(s): Dr. Daniel Schachter & Dr. Roni Setton
 
 * Fall 2022 - Present: Graduate Research Assistant
@@ -66,6 +67,38 @@ Research Experience
     Quality Control, Manuscript and Research Protocol Preparation, & General Administrative Duties.
   * Supervisor(s): Dr. Katie McLaughlin, Dr. Maya Rosen, & Dr. David Weissman
 
+* Fall 2020 - Fall 2021: Undergraduate Research Fellow
+  * Loyola University Chicago
+    * Center for Urban Research & Learning
+  * Duties included: Data Organization and Cleaning, Grant Support and Document Editing, Literature Review and Survey Design, Translational and
+    Transcriptional Services.
+  * Supervisor(s): Dr. Christine George, Dr. Abha Rai, Dr. Amanda Ward, Dr. Gina Spitz, Yasmeen Khayr, & Teresa Neumann
+
+* Summer 2020 - Spring 2021: Thesis Researcher
+  * Loyola University Chicago
+    * Wellbeing & Emotion Laboratory at Loyola
+  * Duties included: Collaborative Project Development, Literature Review, Behavioral Data Organization and Analysis, Manuscript Preparation
+    and Dissemination.
+  * Supervisor(s): Dr. Rebecca Silton
+
+* Spring 2020 - Spring 2021: Provost Fellow
+  * Loyola University Chicago
+    * Children Adapting to Stress and Adversity Laboratory
+  * Duties included: Collaborative Manuscript Development, Literature Review, Statistical Analysis, Manuscript Preparation and Dissemination.
+  * Supervisor(s): Dr. Catherine DeCarlo Sangtiago
+
+* Fall 2019 - Spring 2021: Laboratory Manager, Research Assistant
+  * Loyola University Chicago
+    * Wellbeing & Emotion Laboratory at Loyola
+  * Duties included: Lab Infrastructure Management, EEG Data Collection, Participant Recruitment, MATLAB Data Analysis.
+  * Supervisor(s): Dr. Rebecca Silton
+
+* Summer 2019 - Spring 2021: Laboratory Manager, Research Assistant
+  * Loyola University Chicago
+    * Children Adapting to Stress and Adversity Laboratory
+  * Duties included: Macro Coding, Participant Interviews and Questionnaires, Lab Meeting Presentations, Translation and Formatting Assistance.
+  * Supervisor(s): Dr. Catherine DeCarlo Sangtiago
+
 Clinical Experience
 ======
 * Spring 2022 - Present: Community Residence Counselor, MAP Certified
@@ -93,6 +126,15 @@ Clinical Experience
 
 Teaching Experience
 ======
+* Summer 2023 - Present: Research Instructor
+  * Harvard University, Dept. of Psychology
+    * MBB S-102: Becoming a Brain Scientist: Neuroscience and Psychology Research Becoming a Brain Scientist: Neuroscience and Psychology
+      Research
+  * Duties included: Research Instruction and Advising, Neuroimaging & Tractography, Lab Work Supervision, Methods and Techniques Introduction,
+    Hypothesis Formulation, Experiment Design, Data Collection and Analysis, Findings Presentation, Laboratory Materials Design, Assignment
+    Feedback, and Lab Section Teaching.
+  * Lead Instructor: Dr. Garth Coombs
+
 * Fall 2022 - Winter 2022: Teaching Fellow
   * Harvard University, Dept. of Psychology
     * PSY 1901: Methods of Behavioral Research
@@ -113,9 +155,56 @@ Teaching Experience
     Testing and Assessment, Mental Illness and Mental Health, Biological and Social Aspects of Behavior, Individual Tutoring and Support, and 
     Communication and Presentation Skills.
 
-Service and leadership
+Service & Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2022 - Present: Chief Operations Officer
+  * MedCast Transportation, LLC
+  * Duties included: Operations Management, Strategic Planning, Financial Management, Leadership and Decision-Making, Collaboration and
+    Communication, Service Delivery Excellence, Relationship Management.
+
+* Fall 2022 - Present: Chief Operations Officer, Director of Research
+  * NewBeginnings Foundation, NPO
+  * Duties included: Leadership and Collaboration, Mentoring and Professional Development, Data Security Management, Organizational
+    Restructuring, Communication and Relationship Building, Diversity, Equity, Inclusion, and Belonging (DEIB).
+
+* Fall 2022 - Winter 2022: Student Mentor
+  * Harvard University, Dept. of Psychology
+    * Prospective Ph.D. & RA Event in Psychology (PPREP) Program
+  * Duties included: Application Support, Research Statement Development, Mentoring and Advising, Understanding of Graduate Programs, Cultural
+    Competence, Communication and Support.
+
+* Summer 2022 - Present: Youth Mentor
+  * Big Brother Big Sisters of Eastern Massachusetts
+  * Duties included: Mentoring and Academic Support, College Application Guidance, Job Application Assistance, Financial Literacy Education.
+
+* Spring 2020 - Spring 2021: Co-Chair
+  * Loyola University Chicago
+    * Maroon & Gold Society
+  * Duties included: Meeting Facilitation and Communication, Event Organization and Planning, Representation and Advocacy, Leadership and
+    Coordination.
+
+* Fall 2019 - Spring 2020: SHPEP Ambassador
+  * Association of American Medical Colleges
+    * Summer Health Professions Education Program (SHPEP)
+  * Duties included: Program Promotion and Outreach, Meeting Facilitation and Resource Sharing, Individual Consultations and Guidance,
+    Diversity and Inclusion Advocacy.
+
+* Spring 2019 - Summer 2019: Medicine Pathways Intern
+  * University of Florida
+    * Summer Health Professions Education Program (SHPEP)
+  * Duties included: Collaboration and Networking, Simulation-Based Education, Seminar and Workshop Participation, Clinical Rotations and
+    Shadowing, Research Collaboration
+    
+* Winter 2019 - Spring 2021: Founding President
+  * Loyola University Chicago
+    * PRISM
+  * Duties included: Team Leadership and Coordination, Program Planning and Execution, Learning Outcome Development, Student Support and
+    Mentorship, Advocacy and Liaison
+    
+* Fall 2018 - Spring 2020: Instructional Facilitator; Peer Mentor
+  * Center for Diversity & Inclusion, Loyola University Chicago
+  * Duties included: Individual Counseling and Support, Community Engagement and Education, Staff Meeting Facilitation, Mentorship in Pre
+    Medicine/STEM Studies
 
 Publications
 ======
@@ -142,7 +231,7 @@ Hypersensitivity.
 Moderation Effect of Voluntary Engagement Coping.
 
 **Medina, A.**, Tan, L., Harb, F., Elahi, S., Ardila, M.A., Mis, K., Zarzour, H., Husna, A., Aldos, S., Aldakkak, E., Miller, E., Toussaint, R,
-F., Sosa, S., Bustos, Y., Jolie, S., Santiago, C.D., (in press). The Right to Equitable Education for Refugee and Immigrant Youth during COVID-
+F., Sosa, S., Bustos, Y., Jolie, S., Santiago, C.D., (in press). The Right to Equitable Education for Refugee and Immigrant Youth during COVID
 19. Children’s Legal Rights Journal.
 
 Presentations
@@ -172,3 +261,22 @@ Skills
 * **Technical**: CLAN & CHAT, Diffusion Toolkit, DSI-Studio, Family Interaction Macro-Coding System, Google Suite, Microsoft Office Suite,
   Qualtrics, REDCap, Schedule Management, TrackVis, Translation/Interpretation, Zotero
 
+Academic Achievements, Awards, & Memberships
+======
+* 2023 – 2024: Presidential Scholar, Harvard University ($69,300 total)
+* 2022 – 2023: Member, Harvard Gender & Sexuality Caucus
+* 2022 – 2023: Member, Queer Neuropsychological Society (QNS)                                                                                 
+* 2021: Damen Award
+* 2021: Beta Beta Beta International Honors Society in Biology
+* 2021: Psi Chi International Honors Society in Psychology
+* 2021: All Students Prosper If Resources Exist Fund ($1,500)
+* 2020 – 2021: Kale Williams Human Rights Scholarship Recipient ($1,000)
+* 2020 – 2021: Honors in Cognitive/Behavioral Neuroscience
+* 2020 – 2021: Center for Urban Research & Learning Fellowship ($5,000)
+* 2020 – 2021: Provost Research Fellowship Recipient ($2,000)
+* 2020: Community & Solidarity Award
+* 2020: Nu Rho Psi International Honors Society in Neuroscience
+* 2019: SHPEP Certificate of Completion, University of Florida
+* 2019: Excellence in Promoting Diversity & Inclusion
+* 2017 – 2021: Dean’s List
+* 2017 – 2021: Presidential Scholarship Recipient, ($80,000 total)
