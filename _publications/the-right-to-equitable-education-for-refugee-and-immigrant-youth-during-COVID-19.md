@@ -1,7 +1,7 @@
 ---
 title: "The Right to Equitable Education for Refugee and Immigrant Youth During COVID 19"
 collection: publications
-permalink: /publication/The Right to Equitable Education for Refugee and Immigrant Youth During COVID 19
+permalink: /publication/the-right-to-equitable-education-for-refugee-and-immigrant-youth-during-COVID-19
 excerpt: 'This essay reviews recent literature and shares examples from immigrant and refugee families who were interviewed several months into
 the COVID-19 pandemic as part of a research study.'
 citation: "Medina, A., Tan, L., Harb, F., Elahi, S., Ardila, M.A., Mis, K., Zarzour, H., Husna, A., Aldos, S., Aldakkak, E., Miller, E., 
