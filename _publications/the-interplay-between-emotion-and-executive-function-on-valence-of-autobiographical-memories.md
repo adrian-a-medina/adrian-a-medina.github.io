@@ -1,7 +1,7 @@
 ---
 title: "The Interplay between Emotion & Executive Function on Valence of Autobiographical Memories"
 collection: publications
-permalink: /publication/The Interplay between Emotion & Executive Function on Valence of Autobiographical Memories
+permalink: /publication/the-interplay-between-emotion-and-executive-function-on-valence-of-autobiographical-memories
 excerpt: 'The proposed study aims to examine whether individual affective dimensions (perceived stress, perceived hostility, and positive
 affect) moderate the relationship between executive function (including attention, working memory, and inhibitory control) and one’s tendency to
 recall personal memories with more positive or negative tone.'
