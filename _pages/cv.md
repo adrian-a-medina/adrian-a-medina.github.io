@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * M.P.H. in Health & Social Behavior, Harvard T.H. Chan School of Public Health, 2024 (Expected)
-  * Concentration: Population Mental Health
+  * Concentration: Population Mental Health, Maternal & Child Health
 * Ed.M. in Human Development & Education, Harvard Graduate School of Education, 2023
   * Concentration: Identity, Power, & Justice in Education
 * B.S. in Cognitive & Behavioral Neuroscience, Psychology, Loyola University Chicago, 2021
@@ -19,6 +19,12 @@ Education
 
 Research Experience
 ======
+* Summer 2023 - Present: Visiting Research Fellow
+  * McLean Hospital, Harvard Medical School
+    * Applied Neuroimaging Statistics Laboratory
+  * Duties included: Literature Review, Systematic Reviews, Functional Connectivity, OSF Pre-registration.
+  * Supervisor(s): Dr. Lisa Nickerson, Dr. Marisa Silveri
+
 * Spring 2023 - Present: Research Assistant
   * Harvard T.H. Chan School of Public Health
     * Lee Kum Sheung Center for Health & Happiness
