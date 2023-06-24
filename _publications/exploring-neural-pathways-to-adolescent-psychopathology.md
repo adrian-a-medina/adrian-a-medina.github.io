@@ -1,7 +1,7 @@
 ---
 title: "Exploring Neural Pathways to Adolescent Psychopathology: Amygdalar BOLD Oscillations and Resting State Functional Connectivity in Default-Mode & Salience Networks"
 collection: publications
-permalink: /publication/Exploring Neural Pathways to Adolescent Psychopathology: Amygdalar BOLD Oscillations and Resting State Functional Connectivity in Default-Mode & Salience Networks
+permalink: /publication/exploring-neural-pathways-to-adolescent-psychopathology
 excerpt: 'This secondary analysis aims to shed light on the relationship between oscillatory BOLD activity in the amygdala and resting-state functional connectivity between the amygdala and the salience and default mode networks as potential biomarkers for pediatric anxiety and mood disorders.'
 citation: "Medina, A. A., Silveri, M., Nickerson, L., D. (in preparation). Exploring Neural Pathways to Adolescent Psychopathology: Amygdalar BOLD Oscillations and Resting State Functional Connectivity in Default-Mode & Salience Networks."
 ---
