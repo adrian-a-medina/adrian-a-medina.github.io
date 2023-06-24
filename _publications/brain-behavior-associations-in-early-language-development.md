@@ -1,7 +1,7 @@
 ---
 title: "Brain-Behavior Associations in Early Language Development: The Role of Cortical Volume and Socioeconomic Status in Infants and Toddlers"
 collection: publications
-permalink: /publication/Brain-Behavior Associations in Early Language Development: The Role of Cortical Volume and Socioeconomic Status in Infants and Toddlers
+permalink: /publication/brain-behavior-associations-in-early-language-development
 excerpt: 'Recent research has highlighted the importance of understanding the neural mechanisms that support early language development. This study examined the relationship between cortical volume in specific brain regions and language ability in infants and toddlers, and how this relationship is moderated by socioeconomic status (SES).'
 citation: "Medina, A. A., Loh, M., Wang, J., Turesky, T. Gaab, N. (in preparation). Brain-Behavior Associations in Early Language Development: The Role of Cortical Volume and Socioeconomic Status in Infants and Toddlers."
 ---
