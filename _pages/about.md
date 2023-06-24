@@ -8,54 +8,14 @@ redirect_from:
   - /about.html
 ---
 I'm Adrián, an incoming Health & Social Behavior MPH candidate at the Harvard T.H. Chan School of Public Health within the Social & Behavioral 
-Sciences department. Also a researcher, I'm actively involved in labs/centers across the Harvard scientific community including: the Harvard 
-Faculty of Arts & Sciences, Athinoula A. Martinos Center for Biomedical Imaging, Lee Kum Sheung Center for Health & Happiness, Harvard T.H. Chan 
-School of Public Health, McLean Hospital, and Harvard Graduate School of Education.
+Sciences department. I have gained extensive experience in renowned institutions, such as Harvard University & Massachusetts Institute of
+Technology. I have held various research positions, including Research Project Manager & Visiting Research Fellow, in laboratories specializing
+in developmental cognitive neuroscience. My educational background includes a Master of Education (EdM) in Human Development from Harvard
+Graduate School of Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
 
-My research interests and activity can be broken down into four broader research areas of focus:
-
-**Turbulence in the Mind: Mapping the Consequences of Childhood Trauma on Brain Development, Emotional Processing, & Mental Health** 
---
-Among my primary research areas of focus is the developmental affective neuroscience of childhood trauma, where I investigate the impact of
-early life stress on brain development and mental health using neuroimaging and neurophysiology techniques. Prior research (Herringa, 2017)
-showcases age-related abnormalities in frontolimbic activation and amygdala-prefrontal connectivity in pediatric post-traumatic stress disorder
-(PTSD). The data from cross-sectional studies demonstrate that youth with PTSD exhibit increased amygdala activation with age, combined with
-decreased prefrontal recruitment and coupling. These findings suggest that youth with PTSD may experience abnormal neurodevelopment in key
-frontolimbic circuits, potentially leading to increasing threat reactivity and weaker emotion regulation ability over time. By employing
-cutting-edge imaging technologies and innovative data analysis methods, I aim to provide a better understanding of the long-term effects of
-childhood trauma on brain function, specifically focusing on the alterations in frontolimbic circuits implicated in emotional regulation and
-affective processing.
-
-**Rewiring the Brain: Exploring the Neuropsychopharmacology of Psychedelic Substances & Brain Connectomics** 
---
-My second research area focuses on the intersection of brain connectomics and psychedelics neuropsychopharmacology, using neuroimaging and
-neurophysiology to investigate the effects of psychedelic substances on brain connectivity and mental health. Specifically, I am interested in
-understanding how psychedelics modulate brain networks associated with mental health disorders such as depression and anxiety. To accomplish
-this, I leverage advanced neuroimaging techniques and rigorous experimental design, which allows me to investigate the effects of psychedelics
-on the turbulence of brain dynamics at the node-level. Such techniques follows research by Cruzat et al. (2022), where the node-level turbulence 
-of brain dynamics was quantified and compared between the placebo and different psychedelic conditions. The results showed significant 
-differences in the node-level turbulence of the somatomotor and dorsal attention networks between LSD and placebo, and the frontoparietal, 
-default mode, and ventral networks between psilocybin and placebo. By exploring these effects, I aim to provide new insights into the 
-therapeutic potential of these substances for the treatment of mental health disorders.
-
-**From DNA to Mental Health: Understanding the Interplay of Trauma & Epigenetics from a Psychiatric Epidemiological Perspective**
---
-My third research area of focus is the psychiatric epidemiology of trauma and psychiatric epigenetics, which aims to understand the relationship 
-between environmental factors, such as childhood trauma, and the development of mental health disorders. One important aspect of this research 
-is the role of epigenetics in shaping susceptibility to mental health disorders. As illustrated in research by Nie et al. (2022), emerging 
-trends in epigenetics and childhood trauma research include the investigation of early life stress, DNA methylation, gene expression, and the 
-hypothalamic-pituitary-adrenal axis, among other factors. By leveraging cutting-edge molecular biology techniques, I aim to uncover the genetic 
-and environmental factors that contribute to the development of mental health disorders, with the ultimate goal of developing more effective 
-prevention and treatment strategies. This involves combining large-scale epidemiological studies with molecular biology approaches to 
-investigate the relationship between environmental factors, epigenetic changes, and mental health outcomes.
-
-**Ecological Resonance: Unveiling the Path to Human Flourishing through Ecological Systems, Identity, & Well-Being**
---
-My fourth research area focuses on the intersection of positive psychology and philosophy, with a particular emphasis on the concept of human 
-flourishing. To achieve this goal, I take a sociocultural approach that recognizes the impact of ecological systems on our sense of self, 
-identity, and life purpose. Depicted in the framework by Yosso (2005), community cultural wealth is an array of knowledge, skills, abilities, 
-and contacts possessed and utilized by Communities of Color to survive and resist macro and micro-forms of oppression. By acknowledging and 
-understanding the role of community cultural wealth in shaping identity and promoting resilience, I aim to develop interventions that recognize 
-and build on the strengths and resources of diverse communities. Through empirical research and philosophical inquiry, I seek to contribute to a 
-more comprehensive understanding of human flourishing that takes into account the unique experiences and perspectives of individuals and 
-communities.
+I aspire to be a physician scientist by enrolling in an MD-PhD program and focusing on the intersection of developmental cognitive neuroscience
+& psychiatric epidemiology. My research interests include investigating the impact of trauma exposure on neurodevelopment outcomes &
+psychopathology symptoms. I also aim to assess the prevalence of these phenomena & mental health diagnoses among migrant children. In clinical
+practice, I intend to work as a child/adolescent psychiatrist and developmental-behavioral pediatrician, providing support for youth with
+mood, anxiety, & neurodevelopmental disorders. My goal is to establish a treatment program catering to children & families of oppressed
+communities through culturally sensitive psychopharmacological, psychoeducational, & psychotherapeutic approaches.
