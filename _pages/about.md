@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="/images/Chan-logo.png">
+</p>
+
 I'm Adrián, an incoming Health & Social Behavior MPH candidate at the Harvard T.H. Chan School of Public Health within the Social & Behavioral 
 Sciences department. My educational background includes a Master of Education (EdM) in Human Development from Harvard Graduate School of
 Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
@@ -23,4 +27,3 @@ trans youths, and youths of color.
 In clinical practice, I intend to work as a child/adolescent psychiatrist and developmental-behavioral pediatrician, providing support for youth
 with mood, anxiety, & neurodevelopmental disorders. My goal is to establish a treatment program catering to children & families of oppressed
 communities through culturally sensitive psychopharmacological, psychoeducational, & psychotherapeutic approaches.
-<br/><img src='/images/Chan-logo.png'>
