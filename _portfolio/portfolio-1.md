@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Turbulence in the Mind: Mapping the Consequences of Childhood Trauma on Brain Development, Emotional Processing, & Mental Health"
+excerpt: "Among my primary research areas of focus is the developmental affective neuroscience of childhood trauma, where I investigate the
+impact of early life stress on brain development and mental health using neuroimaging and neurophysiology techniques. Prior research (Herringa,
+2017) showcases age-related abnormalities in frontolimbic activation and amygdala-prefrontal connectivity in pediatric post-traumatic stress
+disorder (PTSD). The data from cross-sectional studies demonstrate that youth with PTSD exhibit increased amygdala activation with age, combined
+with decreased prefrontal recruitment and coupling. These findings suggest that youth with PTSD may experience abnormal neurodevelopment in key
+frontolimbic circuits, potentially leading to increasing threat reactivity and weaker emotion regulation ability over time. By employing cutting
+edge imaging technologies and innovative data analysis methods, I aim to provide a better understanding of the long-term effects of childhood
+trauma on brain function, specifically focusing on the alterations in frontolimbic circuits implicated in emotional regulation and affective
+processing.<br/><img src='/images/trauma.png'>"
 collection: Project Portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
