@@ -1,5 +1,5 @@
 ---
-title: "MBB S-102: Becoming a Brain Scientist: Neuroscience and Psychology Research Becoming a Brain Scientist: Neuroscience and Psychology Research"
+title: "MBB S-102: Becoming a Brain Scientist: Neuroscience and Psychology Research"
 collection: teaching
 type: "Lead Instructor: Dr. Garth Coombs"
 permalink: /teaching/2015-spring-teaching-1
