@@ -2,7 +2,6 @@
 title: "PSY 1901: Methods in Behavioral Research"
 collection: teaching
 type: "Lead Instructor: Prof. Mina Cikara"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Harvard University, Department of Psychology"
 date: 2022-01-01
 location: "Cambridge, MA"
