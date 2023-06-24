@@ -8,6 +8,6 @@ with decreased prefrontal recruitment and coupling. These findings suggest that 
 frontolimbic circuits, potentially leading to increasing threat reactivity and weaker emotion regulation ability over time. By employing cutting
 edge imaging technologies and innovative data analysis methods, I aim to provide a better understanding of the long-term effects of childhood
 trauma on brain function, specifically focusing on the alterations in frontolimbic circuits implicated in emotional regulation and affective
-processing.<br/><img src='/images/trauma.png'>"
+processing.<br/><img src='/images/connectomics.png'>"
 collection: Project Portfolio
 ---
