@@ -3,19 +3,29 @@ layout: archive
 title: "Consultation"
 permalink: /consultation/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 **Welcome to My Consultation Services!**
+======
+As a consultant specializing in human rights and child protection, my credentials directly align with the core objectives of your organization.
+With a Master's of Education in Human Development, concentrating in Identity, Power, & Justice in Education from the prestigious Harvard
+Graduate School of Education, I possess a deep understanding of the intricate relationship between identity and human rights. Additionally, my
+Child Protection Certificate from the FXB Center for Health and Human Rights at Harvard University equips me with comprehensive knowledge and
+practical skills in safeguarding the rights and well-being of children. Furthermore, my Human Rights Education Training Certificate from the US
+Institute of Diplomacy and Human Rights reflects my commitment to promoting human rights principles and education. 
 
-I offer expertise in human rights & child protection, data analysis for diversity, equity, and inclusion initiatives, and identity development. With a focus on evidence-based approaches, I am dedicated to providing tailored solutions that meet the unique needs of each client. Whether you are an organization, institution, or individual seeking guidance, I am here to support you on your journey towards positive change!
+With these credentials, I offer holistic support to organizations and institutions, assisting in the development of robust measures to protect
+children's rights while leveraging my expertise in best practices, policies, and interventions. I provide tailored assistance in enhancing
+prevention programs, implementing trauma-informed approaches, and formulating context-specific child protection policies, ensuring the well
+being and safety of children under your organization's care.
 
-My consultation approach is client-centered, valuing active listening, collaboration, and respect for diverse perspectives. I believe in tailoring solutions that align with your specific goals and challenges. Drawing on the latest research and evidence-based strategies, I employ a combination of quantitative and qualitative methodologies to deliver actionable recommendations and practical solutions. Your unique needs and aspirations are at the heart of my consultation process.
+My consultation approach is client-centered, valuing active listening, collaboration, and respect for diverse perspectives. I believe in
+tailoring solutions that align with your specific goals and challenges. Drawing on the latest research and evidence-based strategies, I employ a
+combination of quantitative and qualitative methodologies to deliver actionable recommendations and practical solutions. Your unique needs and
+aspirations are at the heart of my consultation process.
 
 Services
 ======
-
 ![Consultation Image](/images/consultation.png)
 
 | Human Rights & Child Protection | Diversity, Equity, & Inclusion Analytics | Identity Development Workshop |
