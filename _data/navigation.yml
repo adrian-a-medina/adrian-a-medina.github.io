@@ -8,9 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Consultation"
+    url: /consultation/
     
   - title: "Curriculum Vitae"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
