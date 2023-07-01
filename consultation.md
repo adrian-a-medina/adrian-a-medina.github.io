@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to My Consultation Services!"
+title: "Consultation Services"
 permalink: /consultation/
 author_profile: true
 ---
@@ -22,7 +22,7 @@ tailoring solutions that align with your specific goals and challenges. Drawing 
 combination of quantitative and qualitative methodologies to deliver actionable recommendations and practical solutions. Your unique needs and
 aspirations are at the heart of my consultation process.
 
-Services
+Expertise Areas
 ======
 ![Consultation Image](/images/consultation.png) 
 
