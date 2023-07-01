@@ -52,14 +52,14 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
-$crimson                    : #A51C30;
+$crimson                    : #b40505;
 
 
 $body-color                 : #000;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $crimson;
 $border-color               : $crimson;
 
 $primary-color              : #7a8288;
