@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
   <img src="/images/Chan-logo.png">
 </p>
 
+**Welcome!**
+=====
 I'm Adrián, an incoming Health & Social Behavior MPH candidate at the Harvard T.H. Chan School of Public Health within the Social & Behavioral 
 Sciences department. My educational background includes a Master of Education (EdM) in Human Development from Harvard Graduate School of
 Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
