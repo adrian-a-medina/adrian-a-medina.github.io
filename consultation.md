@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "**Welcome to My Consultation Services!**"
+title: "Welcome to My Consultation Services!"
 permalink: /consultation/
 author_profile: true
 ---
