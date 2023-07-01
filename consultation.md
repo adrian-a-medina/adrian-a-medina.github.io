@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Consultation"
+title: "**Welcome to My Consultation Services!**"
 permalink: /consultation/
 author_profile: true
 ---
 
-**Welcome to My Consultation Services!**
-======
 As a consultant specializing in human rights and child protection, my credentials directly align with the core objectives of your organization.
 With a Master's of Education in Human Development, concentrating in Identity, Power, & Justice in Education from the prestigious Harvard
 Graduate School of Education, I possess a deep understanding of the intricate relationship between identity and human rights. Additionally, my
