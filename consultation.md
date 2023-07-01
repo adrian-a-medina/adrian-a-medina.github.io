@@ -26,7 +26,7 @@ aspirations are at the heart of my consultation process.
 
 Services
 ======
-![Consultation Image](/images/consultation.png)
+![Consultation Image](/images/consultation.png) 
 
 | Human Rights & Child Protection | Diversity, Equity, & Inclusion Analytics | Identity Development Workshop |
 |------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
