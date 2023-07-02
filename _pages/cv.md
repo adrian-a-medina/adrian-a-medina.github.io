@@ -132,21 +132,28 @@ Clinical Experience
 
 Teaching Experience
 ======
+* Summer 2023 - Present: Teaching Fellow
+  * Harvard Graduate School of Education
+    * EVI 101: Evidence
+    * Lead Instructor: Prof. Carrie Conaway & Dr. James Kim
+  * Duties included: Teaching and Instruction, Foundations of Evidence, Student Discussion Facilitation, Project Supervision, Assessment and
+    Grading, Team-Based Learning, and Application of Evidence in Authentic Problems of Practice..
+
 * Summer 2023 - Present: Research Instructor
   * Harvard University, Dept. of Psychology
     * MBB S-102: Becoming a Brain Scientist: Neuroscience and Psychology Research Becoming a Brain Scientist: Neuroscience and Psychology
       Research
+    * Lead Instructor: Dr. Garth Coombs 
   * Duties included: Research Instruction and Advising, Neuroimaging & Tractography, Lab Work Supervision, Methods and Techniques Introduction,
     Hypothesis Formulation, Experiment Design, Data Collection and Analysis, Findings Presentation, Laboratory Materials Design, Assignment
     Feedback, and Lab Section Teaching.
-  * Lead Instructor: Dr. Garth Coombs
-
+  
 * Fall 2022 - Winter 2022: Teaching Fellow
   * Harvard University, Dept. of Psychology
     * PSY 1901: Methods of Behavioral Research
+    * Lead Instructor: Dr. Mina Cikara
   * Duties included: Teaching and Instruction, Research Methods and Design, Statistical Analysis, Data Visualization, Research Project
     Development, Written and Verbal Communication, and Problem-Solving and Adaptability.
-  * Lead Instructor: Dr. Mina Cikara
   
 * Fall 2020 - Spring 2021: Supplemental Instructor
   * Loyola University Chicago, Dept. of Biology
