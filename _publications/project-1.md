@@ -9,5 +9,5 @@ Toussaint, R, F., Sosa, S., Bustos, Y., Jolie, S., Santiago, C.D., (2020). The R
 during COVID-19. Children’s Legal Rights Journal."
 ---
 <object data="{{ site.baseurl }}/files/Medina%20et%20al.,%202020.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="{{ site.baseurl }}/files/AMedina_CV.pdf">click here to download the PDF file.</a></p>
+  <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="{{ site.baseurl }}/files/Medina%20et%20al.,%202020.pdf">click here to download the PDF file.</a></p>
 </object>
