@@ -1,9 +1,9 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrián Medina, Ed.M."
+title                    : "Adrián Medina, MPH, EdM"
 title_separator          : "-"
 name                     : &name "Adrián Medina"
-description              : &description "MPH Student @ Harvard T.H. Chan School of Public Health"
+description              : &description "Sr. Clinical Research Assistant @ McLean Hospital & Harvard Medical School"
 url                      : https://adrian-a-medina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrian-a-medina/adrian-a-medina.github.io"
