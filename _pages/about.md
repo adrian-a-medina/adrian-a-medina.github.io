@@ -8,24 +8,17 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="/images/Chan-logo.png">
+  <img src="/images/McLean-Harvard Banner.svg">
 </p>
 
 **Welcome!**
 =====
-I'm Adrián, an incoming Health & Social Behavior MPH candidate at the Harvard T.H. Chan School of Public Health within the Social & Behavioral 
-Sciences department. My educational background includes a Master of Education (EdM) in Human Development from Harvard Graduate School of
-Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
+I'm Adrián, a brain science enthusiast and Senior Clinical Research Assistant in both the Applied Neuroimaging Statistics Research Laboratory and Computational Psychopathology Laboratory at McLean Hospital. My educational journey has led me through a Master of Public Health (MPH) in Health & Social Behavior at Harvard T.H. Chan School of Public Health, a Master of Education (EdM) in Human Development from Harvard Graduate School of Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
 
-I have gained extensive experience in renowned institutions, such as Harvard University & Massachusetts General Hospital. I have held
-various research positions, including Research Project Manager & Visiting Research Fellow, in laboratories specializing in developmental
-cognitive neuroscience. 
+Having worked in prestigious institutions like Harvard University and McLean Hospital, I have held significant roles such as Research Project Manager and Senior Clinical Research Assistant in laboratories focused on developmental cognitive neuroscience, computational psychiatry, and population mental health.
 
-I aspire to be a physician scientist by enrolling in an MD-PhD program and focusing on the intersection of developmental cognitive neuroscience
-& psychiatric epidemiology. My research interests include investigating the impact of trauma exposure on neurodevelopment outcomes &
-psychopathology symptoms. I also aim to assess the prevalence of these phenomena & mental health diagnoses among migrant children, queer &/or
-trans youths, and youths of color. 
+My aspiration to become a physician-scientist drives my focus on the integrative study of developmental affective neuroscience, psychiatric epidemiology, and psychopharmacology. I am deeply engaged in exploring how multidimensional traumatic stressors (e.g., threat, deprivation, and unpredictability) affect psychopathology, influenced by neurodevelopmental and epigenetic mechanisms across the lifespan—particularly from prenatal stages to young adulthood. I am also keen on uncovering the therapeutic potentials of psychedelic medicine, specifically its effects on neuroplasticity, connectivity, and mental health outcomes. Through computational modeling, big neuroimaging data, and multimodal data fusion, I aim to enhance comprehension of complex brain-behavior interactions and develop precision medicine approaches that tailor treatments to individual psychopathological profiles. This approach not only seeks to discover novel therapeutic targets but also to refine existing treatments to more effectively address the nuanced and interconnected facets of mental disorders.
 
-In clinical practice, I intend to work as a child/adolescent psychiatrist and developmental-behavioral pediatrician, providing support for youth
-with mood, anxiety, & neurodevelopmental disorders. My goal is to establish a treatment program catering to children & families of oppressed
-communities through culturally sensitive psychopharmacological, psychoeducational, & psychotherapeutic approaches.
+In my future clinical practice, I aim to specialize in Neuropsychiatry-Behavioral Neurology, Developmental-Behavioral Pediatrics, and Child-Adolescent Psychiatry. I am committed to providing critical support to vulnerable youths living with mood, anxiety, and neurodevelopmental disorders. My vision is to establish a trauma-informed treatment program that serves children and families from oppressed communities through integrative and culturally-sensitive psychopharmacological, psychoeducational, and psychotherapeutic approaches.
+
+This synthesis of my research and clinical objectives underscores my dedication to bridging scientific discoveries with tangible health solutions, striving for a profound impact on mental health care practices, particularly for those most in need.
