@@ -13,7 +13,7 @@ redirect_from:
 
 **Welcome!**
 =====
-I'm Adrián, a brain science enthusiast and Senior Clinical Research Assistant in both the Applied Neuroimaging Statistics Research Laboratory and Computational Psychopathology Laboratory at McLean Hospital. My educational journey has led me through a Master of Public Health (MPH) in Health & Social Behavior at Harvard T.H. Chan School of Public Health, a Master of Education (EdM) in Human Development from Harvard Graduate School of Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
+I'm Adrián, a brain science enthusiast & Senior Clinical Research Assistant in both the Applied Neuroimaging Statistics Research Laboratory and Computational Psychopathology Laboratory at McLean Hospital. My educational journey has led me through a Master of Public Health (MPH) in Health & Social Behavior at Harvard T.H. Chan School of Public Health, a Master of Education (EdM) in Human Development from Harvard Graduate School of Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
 
 Having worked in prestigious institutions like Harvard University and McLean Hospital, I have held significant roles such as Research Project Manager and Senior Clinical Research Assistant in laboratories focused on developmental cognitive neuroscience, computational psychiatry, and population mental health.
 
