@@ -1,9 +1,9 @@
 ---
 title: "MBB S-102: Becoming a Brain Scientist: Neuroscience and Psychology Research"
 collection: teaching
-type: "Lead Instructor: Dr. Garth Coombs"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Harvard Summer School, Mind Brain Behavior Interfaculty Initiative"
+type: "Lead Instructor: Garth Coombs, Ph.D."
+permalink: /teaching/2023-summer-teaching-1
+venue: "Harvard University, Department of Psychology"
 date: 2023-01-01
 location: "Cambridge, MA"
 ---
