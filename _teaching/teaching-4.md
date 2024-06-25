@@ -2,6 +2,7 @@
 title: "HDE 101: Developmental Insights: Connecting Human Development Throughlines Across Research and Practice"
 collection: teaching
 type: "Lead Instructors: Dana McCoy, Ph.D., Junlei Li, Ph.D., & Stephanie Jones, Ph.D."
+permalink: /teaching/teaching-4
 venue: "Harvard Graduate School of Education"
 date: 2023-01-01
 location: "Cambridge, MA"
