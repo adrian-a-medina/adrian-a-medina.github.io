@@ -34,9 +34,7 @@ sections:
     content:
       title: '🧠 Research Interest Overview 🧠'
       subtitle: 'Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences'
-      text: |-
-        <img src="/assets/media/Model Diagram.svg" alt="Model Diagram">
-        
+      text: |-        
         My aspiration to become a physician-scientist drives my focus on the integrative study of developmental affective neuroscience, psychiatric epidemiology, and psychopharmacology. I am deeply engaged in exploring how multidimensional traumatic stressors (e.g., threat, deprivation, and unpredictability) affect psychopathology, influenced by neurodevelopmental and epigenetic mechanisms across the lifespan—particularly from prenatal stages to young adulthood. I am also keen on uncovering the therapeutic potentials of psychedelic medicine, specifically its effects on neuroplasticity, connectivity, and mental health outcomes. Through computational modeling, big neuroimaging data, and normative modeling, I aim to enhance comprehension of complex brain-behavior interactions and develop precision medicine approaches that tailor treatments to individual psychopathological profiles. This approach not only seeks to discover novel therapeutic targets but also to refine existing treatments to more effectively address the nuanced and interconnected facets of mental disorders.
         
         In my future clinical practice, I aim to specialize in Neuropsychiatry-Behavioral Neurology, Developmental-Behavioral Pediatrics, and Child-Adolescent Psychiatry. I am committed to providing critical support to vulnerable youths living with mood, anxiety, and neurodevelopmental disorders. My vision is to establish a trauma-informed treatment program that serves children and families from oppressed communities through integrative and culturally-sensitive psychopharmacological, psychoeducational, and psychotherapeutic approaches.
