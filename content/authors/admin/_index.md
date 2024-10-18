@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-I'm Adrián, a brain science enthusiast & a <small>(self-proclaimed)</small> R wizard. My research interests include emotional processing, human experience, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.
+I'm Adrián, a brain science enthusiast & R wizard <small>(self-proclaimed)</small>. My research interests include emotional processing, human experience, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.
