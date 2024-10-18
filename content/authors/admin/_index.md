@@ -11,7 +11,7 @@ last_name: Medina
 
 # Status emoji
 status:
-  icon: ⚛️
+  icon: ⚛︎
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Research Data Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McLean Imaging Center, McLean Hosipital & Harvard Medical School
+  - name: McLean Hosipital & Harvard Medical School
     url: https://www.mcleanmri.org/ansl.html
 
 # Social network links
@@ -35,16 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/_adrianmedina_
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-8838-6010
   - icon: brands/github
     url: https://github.com/adrian-a-medina
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/adrian-a-medina/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Adrian-Medina-7
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-8838-6010
 
 interests:
   - Affective Neuroscience
@@ -61,7 +59,7 @@ education:
     summary: |
       GPA: 3.85/4.0
 
-    Concentrations:
+      Concentrations:
       - Population Mental Health
       - Maternal & Child Health
   - area: EdM, Human Development & Education
@@ -74,7 +72,7 @@ education:
 
       GPA: 3.85/4.0
 
-      Concentrations:
+      Concentration:
       - Identity, Power, Justice, & Education
   - area: BS, Cognitive & Behavioral Neuroscience; Psychology
     institution: Loyola University Chicago
@@ -191,4 +189,4 @@ awards:
 
 ## About Me
 
-I'm Adrián, a brain science enthusiast & aspiring R wizard. My research interests include emotional processing, human experience, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratotry at McLean Hospital & Harvard Medical School.
+I'm Adrián, a brain science enthusiast & a <small>(self-proclaimed)</small> R wizard. My research interests include emotional processing, human experience, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.
