@@ -1,0 +1,31 @@
+```{r}
+# Define a vector with subpage paths
+subpages <- c(
+  "/Users/adrianmedina/GitHub/adrian-a-medina.github.io/pages/cv/cv.html",
+  "/Users/adrianmedina/GitHub/adrian-a-medina.github.io/pages/homepage/index.html",
+  "/Users/adrianmedina/GitHub/adrian-a-medina.github.io/pages/projects/projects.html",
+  "/Users/adrianmedina/GitHub/adrian-a-medina.github.io/pages/research/research.html",
+  "/Users/adrianmedina/GitHub/adrian-a-medina.github.io/pages/teaching/teaching.html"
+)
+
+# Loop through each subpage and create an HTML file with placeholder text
+for (file_path in subpages) {
+  # Create directories if they do not exist
+  dir.create(dirname(file_path), recursive = TRUE, showWarnings = FALSE)
+  
+  # Write placeholder content to each HTML file
+  writeLines(
+    '<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit later</title>
+</head>
+<body>
+    <p>Edit later.</p>
+</body>
+</html>',
+    file_path
+  )
+}
+
+```
