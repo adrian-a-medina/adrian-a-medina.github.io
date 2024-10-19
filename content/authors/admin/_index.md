@@ -62,7 +62,7 @@ education:
       Concentrations:
       - Population Mental Health
       - Maternal & Child Health
-  - area: EdM, Human Development & Education
+  - area: EdM, Human Development
     institution: Harvard Graduate School of Education
     date_start: 2022-06-01
     date_end: 2023-05-01
@@ -74,7 +74,7 @@ education:
 
       Concentration:
       - Identity, Power, Justice, & Education
-  - area: BS, Cognitive & Behavioral Neuroscience; Psychology
+  - area: BS, Neuroscience & Psychology
     institution: Loyola University Chicago
     date_start: 2017-08-01
     date_end: 2021-05-01
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-I'm Adrián, a brain science enthusiast & R wizard <small>(self-proclaimed)</small>. My research interests include emotional processing, human experience, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.
+I'm Adrián, a brain science enthusiast & R wizard <small>(self-proclaimed)</small>. My research interests include emotional processing, human experience, mental health, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.
