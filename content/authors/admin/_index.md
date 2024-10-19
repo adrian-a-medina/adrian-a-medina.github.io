@@ -153,7 +153,7 @@ skills:
       - name: Dogs
         description: ''
         percent: 60
-        icon: dog
+        icon: 🐶
       - name: Astrology
         description: ''
         percent: 100
@@ -182,7 +182,7 @@ awards:
     url: https://www.hsph.harvard.edu/admissions/financial-aid/funding-sources-and-how-to-apply/
     date: '2023-08-01'
     awarder: Harvard University
-    icon: academic-cap
+    icon: 🎓
     summary: |
       The President’s Office funds this program to enable talented and financially-needy graduate/professional students interested in public service careers the ability to attend Harvard. At the Harvard Chan School, Presidential funds are used to support the highest quality masters students, especially students from disadvantaged backgrounds.
 ---
