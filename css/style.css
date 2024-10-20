@@ -157,3 +157,23 @@ section {
     position: relative;
     z-index: 1;  /* Ensure that content is above particles */
 }
+
+.social-icons a {
+    margin: 0 10px;
+    transition: transform 0.3s;
+}
+
+.social-icons a:hover {
+    transform: scale(1.1); /* Adds a zoom effect on hover */
+}
+
+.social-icons img {
+    width: 30px;  /* Adjust size as needed */
+    height: auto;
+    filter: invert(30%) sepia(80%) saturate(300%) hue-rotate(350deg); /* Adjust icon color to match your theme */
+    transition: filter 0.3s;
+}
+
+.social-icons img:hover {
+    filter: invert(60%) sepia(20%) saturate(300%) hue-rotate(0deg); /* Change color on hover for a nice effect */
+}
