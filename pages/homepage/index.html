@@ -1,9 +1,72 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Edit later</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adrián Medina - Homepage</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/pageTemplate.js" defer></script>
+    <script src="js/script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js" defer></script>
 </head>
 <body>
-    <p>Edit later.</p>
+    <div id="particles-js"></div>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#interests">Interests</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <!-- Profile Section -->
+        <div class="profile">
+            <img src="images/avatar.svg" alt="Profile Picture" class="profile-picture">
+            <h1>Adrián Medina</h1>
+            <p>(they/them)</p>
+            <p>Research Data Manager<br>McLean Hospital<br>Harvard Medical School</p>
+            <!-- Social Media Icons -->
+            <div class="social-icons">
+                <a href="mailto:aamedina@mclean.harvard.edu" target="_blank"><img src="assets/icons/envelope-regular.svg" alt="Email"></a>
+                <a href="https://x.com/_adrianmedina_" target="_blank"><img src="assets/icons/x-twitter-brands-solid.svg" alt="X (Twitter)"></a>
+                <a href="https://github.com/adrian-a-medina" target="_blank"><img src="assets/icons/github-brands-solid.svg" alt="GitHub"></a>
+                <a href="https://www.linkedin.com/in/adrian-a-medina/" target="_blank"><img src="assets/icons/linkedin-brands-solid.svg" alt="LinkedIn"></a>
+                <a href="https://scholar.google.com/citations?user=h6Wr6p4AAAAJ&hl=en" target="_blank"><img src="assets/icons/google-scholar-brands-solid.svg" alt="Google Scholar"></a>
+                <a href="https://orcid.org/0000-0002-8838-6010" target="_blank"><img src="assets/icons/orcid-brands-solid.svg" alt="ORCID"></a>
+                <a href="https://www.researchgate.net/profile/Adrian-Medina-7" target="_blank"><img src="assets/icons/researchgate-brands-solid.svg" alt="ResearchGate"></a>
+            </div>
+        </div>
+        
+        <!-- About Me Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I’m Adrián, a brain science enthusiast & R wizard <small>(self-proclaimed)</small>. My research interests include emotional processing, human experience, mental health, & a/typical neurodevelopment. I am currently a Research Data Manager in both the Applied Neuroimaging Statistics Research Laboratory & Computational Psychopathology Laboratory at McLean Hospital & Harvard Medical School.</p>
+            <a href="assets/AMedina_CV.pdf" download><button><img src="assets/icons/download-solid.svg" alt="Download"> Download CV</button></a>
+        </section>
+
+        <!-- Interests Section -->
+        <section id="interests">
+            <h2>Interests</h2>
+            <ul>
+                <li>Affective Neuroscience</li>
+                <li>Computational Psychiatry</li>
+                <li>Psychiatric Epidemiology</li>
+                <li>Developmental Psychology</li>
+                <li>Neuropsychopharmacology</li>
+            </ul>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li><img src="assets/icons/graduation-cap-solid.svg" alt="Graduation Cap"> MPH, Social & Behavioral Science<br>Harvard T.H. Chan School of Public Health</li>
+                <li><img src="assets/icons/graduation-cap-solid.svg" alt="Graduation Cap"> EdM, Human Development<br>Harvard Graduate School of Education</li>
+                <li><img src="assets/icons/graduation-cap-solid.svg" alt="Graduation Cap"> BS, Neuroscience & Psychology<br>Loyola University Chicago</li>
+            </ul>
+        </section>
+    </div>
 </body>
 </html>
+
