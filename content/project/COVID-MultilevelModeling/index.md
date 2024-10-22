@@ -1,6 +1,5 @@
 ---
 title: Longitudinal COVID Risk/Reward Behaviors & Mental Health Multilevel Modeling
-date: 2023-10-26
 external_link: https://github.com/adrian-a-medina/COVID-MultilevelModeling
 tags:
   - Computational Psychiatry
