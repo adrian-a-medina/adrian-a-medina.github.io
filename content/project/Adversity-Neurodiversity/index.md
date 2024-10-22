@@ -1,6 +1,5 @@
 ---
 title: "Intersections of Adversity & Neurodiversity: ACEs' Association with Mental Health & the Buffering Role of Flourishing"
-date: 2023-10-26
 external_link: https://github.com/adrian-a-medina/Adversity-Neurodiversity
 tags:
   - Developmental Psychology
