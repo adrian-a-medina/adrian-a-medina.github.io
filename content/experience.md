@@ -19,20 +19,20 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: collection
+  - block: markdown
     id: resume-student
     content:
       title: Student/Intern Research Experience
-  - block: collection
+  - block: markdown
     id: resume-clinical
     content:
       title: Clinical Experience
-  - block: collection
+  - block: markdown
     id: resume-teaching
     content:
       title: Teaching Experience
-  - block: collection
-    id: resume-teaching
+  - block: markdown
+    id: resume-service
     content:
       title: Service & Extracurricular Experience
   - block: resume-skills
@@ -47,6 +47,6 @@ sections:
       username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: Language Proficiency
       username: admin
 ---
