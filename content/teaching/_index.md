@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: learn
     content:
-      title: Learn
+      title: Foundations of Statistics & Data Science
       filters:
         folders:
           - teaching
