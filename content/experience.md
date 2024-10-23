@@ -19,16 +19,20 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-student
+  - block: collection
+    id: resume-student
     content:
       title: Student/Intern Research Experience
-  - block: resume-clinical
+  - block: collection
+    id: resume-clinical
     content:
       title: Clinical Experience
-  - block: resume-teaching
+  - block: collection
+    id: resume-teaching
     content:
       title: Teaching Experience
-  - block: resume-teaching
+  - block: collection
+    id: resume-teaching
     content:
       title: Service & Extracurricular Experience
   - block: resume-skills
