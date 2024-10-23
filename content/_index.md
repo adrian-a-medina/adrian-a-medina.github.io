@@ -51,7 +51,7 @@ sections:
         
         I actively seek opportunities to improve, listen, and adapt, ensuring that my actions contribute positively to building spaces where everyone feels seen, heard, and empowered by default.
   - block: collection
-    id: papers
+    id: publications
     content:
       title: '🔖 Featured Publications 🔖'
       filters:
