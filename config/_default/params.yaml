@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: red
 
 # SEO
@@ -36,11 +36,13 @@ header:
     show_theme_chooser: true
     logo:
       text: "Adrián Medina"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.svg"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Adrián Medina. This work is licensed under {license}'
+    notice: '© {year} Adrián Medina. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: false
