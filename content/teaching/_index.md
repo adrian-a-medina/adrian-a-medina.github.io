@@ -14,6 +14,7 @@ sections:
     id: learn
     content:
       title: Foundations of Statistics & Data Science
+      text: "This page is currently under development!🚀"
       filters:
         folders:
           - teaching
