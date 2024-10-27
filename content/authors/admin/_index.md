@@ -11,7 +11,7 @@ last_name: Medina
 
 # Status emoji
 status:
-  icon: ⚛︎
+  icon: 💫
 
 # Is this the primary user of the site?
 superuser: true
@@ -134,8 +134,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: R & Python
-        description: 'IDE: R Studio, Positron, & Google Colab'
+      - name: R, Python, & Unix
+        description: 'IDE: R Studio, Positron, Google Colab, & Terminal'
         percent: 80
         icon: code-bracket
       - name: Data Science
