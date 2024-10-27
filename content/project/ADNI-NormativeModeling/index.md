@@ -1,6 +1,6 @@
 ---
 title: "From Norms to Neuropsychopathology: Exploring Neuroanatomical & Neuropsychiatric Variation in Alzheimer’s Disease Through Normative Modeling"
-#date: 2023-10-26
+date: 2024-10-01
 external_link: https://github.com/adrian-a-medina/ADNI-NormativeModeling
 tags:
   - Affective Neuroscience
