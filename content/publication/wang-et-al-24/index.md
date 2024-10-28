@@ -31,7 +31,7 @@ publication_short: "Brain & Language"
 abstract: Brain asymmetries are hypothesized to reduce functional duplication and thus have evolutionary advantages. The goal of this study was to examine whether early brain lateralization contributes to skill development within the speech-language domain. To achieve this goal, 25 infants (2–13 months old) underwent behavioral language examination and fMRI during sleep while listening to forward and backward speech, and then were assessed on various language skills at 55–69 months old. We observed that infant functional lateralization of the superior temporal gyrus (STG) for forward > backward speech was associated with phonological, vocabulary, and expressive language skills 4 to 5 years later. However, we failed to observe that infant language skills or the anatomical lateralization of STG were related to subsequent language skills. Overall, our findings suggest that infant functional lateralization of STG for speech perception may scaffold subsequent language acquisition, supporting the hypothesis that functional hemisphere asymmetries are advantageous.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study explores how early brain lateralization in infants, particularly within the superior temporal gyrus during speech perception, is associated with enhanced language skills years later, supporting the idea that functional brain asymmetries may have developmental benefits.
 
 tags:
 - Developmental Psychology
