@@ -33,7 +33,7 @@ sections:
   - block: markdown
     content:
       title: 'Professional & Research Aspirations'
-      subtitle: 'Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences'
+      subtitle: Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences
       text: |
         ![Model Diagram](assets/media/ModelDiagram.svg)
 
