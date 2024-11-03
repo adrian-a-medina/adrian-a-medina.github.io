@@ -33,8 +33,9 @@ sections:
   - block: markdown
     content:
       title: 'Professional & Research Aspirations'
-      subtitle: Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences
       text: |
+        ### Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences
+
         ![Model Diagram](ModelDiagram.png)
 
         My aspiration to become a physician-scientist drives my focus on the integrative study of developmental affective neuroscience, psychiatric epidemiology, and psychopharmacology. I am deeply engaged in exploring how multidimensional traumatic stressors (e.g., threat, deprivation, and unpredictability) affect psychopathology, influenced by neurodevelopmental and epigenetic mechanisms across the lifespan—particularly from prenatal stages to young adulthood. I am also keen on uncovering the therapeutic potentials of psychedelic medicine, specifically its effects on neuroplasticity, connectivity, and mental health outcomes. Through computational modeling, big neuroimaging data, and normative modeling, I aim to enhance comprehension of complex brain-behavior interactions and develop precision medicine approaches that tailor treatments to individual psychopathological profiles. This approach not only seeks to discover novel therapeutic targets but also to refine existing treatments to more effectively address the nuanced and interconnected facets of mental disorders.
@@ -45,8 +46,9 @@ sections:
   - block: markdown
     content:
       title: 'Scholarly Praxis'
-      subtitle: Embodying Accessibility, Diversity, Equity, Inclusion, & Belonging in Academia and Beyond
       text: |
+        ### Embodying Accessibility, Diversity, Equity, Inclusion, & Belonging in Academia & Beyond
+
         ![DEI Diagram](dei.png)
 
         My philosophy on Accessibility, Diversity, Equity, Inclusion, & Belonging (ADEIB) is deeply influenced by my intersectional experiences as a Latinx, Queer, Non-Binary, Disabled, First-Generation, and Low-Income individual. These identities, coupled with my professional and educational experiences, shape my understanding of power, privilege, and oppression.
