@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Foundations of Statistics & Data Science
 summary: My courses
 type: landing
 
@@ -11,9 +11,10 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: learn
     content:
-      title: Teaching
+      title: Foundations of Statistics & Data Science
+      text: "This page is currently under development!🚀"
       filters:
         folders:
           - teaching

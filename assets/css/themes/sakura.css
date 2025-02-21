@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: SAKURA */
+:root {
+  --color-primary-50: 241 224 232;   /* #f1e0e8 */
+  --color-primary-100: 237 201 213;  /* #edc9d5 */
+  --color-primary-200: 232 172 188;  /* #e8acbc */
+  --color-primary-300: 230 118 152;  /* #e67798 */
+  --color-primary-400: 227 94 133;   /* #e35e85 */
+  --color-primary-500: 152 99 115;   /* #986373 */
+  --color-primary-600: 0 0 0;        /* #000000 */
+  --color-primary-700: 249 246 249;  /* #f9f6f9 */
+  --color-primary-800: 0 0 0;        /* #000000 */
+  --color-primary-900: 0 0 0;        /* #000000 */
+  --color-primary-950: 0 0 0;        /* #000000 */
+}

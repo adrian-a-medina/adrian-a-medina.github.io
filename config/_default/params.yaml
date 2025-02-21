@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: sakura
 
 # SEO
 marketing:
@@ -35,12 +35,14 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Adrián Medina"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.svg"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Adriám Medina. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
