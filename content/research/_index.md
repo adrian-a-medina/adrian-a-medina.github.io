@@ -3,7 +3,7 @@ title: Research Areas of Interest
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: ""
     design:
