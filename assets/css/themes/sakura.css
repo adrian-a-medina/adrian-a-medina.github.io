@@ -1,14 +1,14 @@
 /* Hugo Blox color theme: SAKURA */
 :root {
-  --color-primary-50: 241 224 232;   /* #f1e0e8 */
-  --color-primary-100: 237 201 213;  /* #edc9d5 */
-  --color-primary-200: 232 172 188;  /* #e8acbc */
-  --color-primary-300: 230 118 152;  /* #e67798 */
-  --color-primary-400: 227 94 133;   /* #e35e85 */
-  --color-primary-500: 152 99 115;   /* #986373 */
-  --color-primary-600: 0 0 0;        /* #000000 */
-  --color-primary-700: 249 246 249;  /* #f9f6f9 */
-  --color-primary-800: 0 0 0;        /* #000000 */
-  --color-primary-900: 0 0 0;        /* #000000 */
-  --color-primary-950: 0 0 0;        /* #000000 */
+  --color-primary-50: 249 246 249;   /* #f9f6f9 - Very light pink */
+  --color-primary-100: 241 224 232;  /* #f1e0e8 - Light pink */
+  --color-primary-200: 237 201 213;  /* #edc9d5 - Soft blush pink */
+  --color-primary-300: 232 172 188;  /* #e8acbc - Light rose pink */
+  --color-primary-400: 230 118 152;  /* #e67798 - Medium cherry pink */
+  --color-primary-500: 227 94 133;   /* #e35e85 - Bold sakura pink */
+  --color-primary-600: 152 99 115;   /* #986373 - Dusky rose */
+  --color-primary-700: 120 67 82;    /* #784352 - Dark mauve */
+  --color-primary-800: 80 40 50;     /* #502832 - Deep cherry */
+  --color-primary-900: 50 20 30;     /* #32141e - Very dark cherry */
+  --color-primary-950: 25 10 15;     /* #190a0f - Deepest shade */
 }
