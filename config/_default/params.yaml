@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: sakura
+  color: rose
 
 # SEO
 marketing:
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: ''
+      text: "Adrián Medina"
       # Logo filename in `assets/media/` folder
       filename: "icon.svg"
 
