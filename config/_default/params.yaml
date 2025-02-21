@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: "Adrián Medina"
+      text: ''
       # Logo filename in `assets/media/` folder
       filename: "icon.svg"
 

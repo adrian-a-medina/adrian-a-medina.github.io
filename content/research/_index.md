@@ -3,6 +3,24 @@ title: Research Areas of Interest
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        color: "transparent"  # Makes the background behind the image transparent
+        video: 
+          filename: "research.mp4"
+          size: cover # Ensures full width
+          type: local
+          loop: true  # Ensures the video loops continuously
+          autoplay: true  # Automatically plays when the page loads
+          muted: true  # Mutes the video (recommended for UX)
+          position: center
   - block: markdown
     id: research-1
     content:

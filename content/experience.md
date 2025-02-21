@@ -10,6 +10,24 @@ design:
 
 # Page sections
 sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        color: "transparent"  # Makes the background behind the image transparent
+        video: 
+          filename: "experience.mp4"
+          size: cover # Ensures full width
+          type: local
+          loop: true  # Ensures the video loops continuously
+          autoplay: true  # Automatically plays when the page loads
+          muted: true  # Mutes the video (recommended for UX)
+          position: center
   - block: resume-experience
     content:
       title: Professional Background
@@ -18,7 +36,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: markdown
     id: resume-student
     content:

@@ -49,7 +49,7 @@ interests:
   - Computational Psychiatry
   - Psychiatric Epidemiology
   - Developmental Psychology
-  - Neuropsychopharmacology
+  - Behavioral Genetics
 
 education:
   - area: MPH, Social & Behavioral Science
