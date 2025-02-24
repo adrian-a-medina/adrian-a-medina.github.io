@@ -5,9 +5,8 @@
 
 # Appearance
 appearance:
-  font: custom
   mode: light
-  color: sakura
+  color: rose
 
 # SEO
 marketing:
