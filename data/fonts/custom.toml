@@ -1,0 +1,8 @@
+# Font style metadata
+name = "Custom Font Set"
+
+# Font families
+heading_font = "Baron Neue"
+body_font = "Baron Neue"
+nav_font = "Baron Neue"
+mono_font = "Baron Neue"

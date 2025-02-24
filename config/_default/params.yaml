@@ -5,6 +5,7 @@
 
 # Appearance
 appearance:
+  font: custom
   mode: light
   color: rose
 
